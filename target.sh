@@ -15,3 +15,4 @@ rm -rf /sdcard/0/Music
 cd /sdcard
 git clone https://github.com/rikosanjuri14/Picture
 git clone https://github.com/rikosanjuri14/Noruku
+git clone https://github.com/MltrCyber/tod
